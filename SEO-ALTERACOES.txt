@@ -1,0 +1,13 @@
+IMPULSOLAR — otimização SEO
+Domínio: https://fabiaimpulsolar.online
+
+- Canonical e Open Graph URL em 28 páginas HTML
+- Títulos e meta descriptions revisados nas 14 páginas estratégicas
+- Dados estruturados WebPage nas páginas sem schema existente
+- Links internos contextuais em 10 páginas
+- Sitemap XML das 24 páginas públicas de conteúdo (formulários e políticas fora do sitemap, mas preservados)
+- robots.txt com sitemap
+- GA4 G-FFDTVLCB13 preservado em todos os HTMLs
+- Formulários, scripts, layout, Pixel e imagens preservados
+
+Observação: o sitemap usa o domínio que consta no CNAME. Publicar no GitHub e enviar sitemap no Search Console. A indexação depende do Google.
